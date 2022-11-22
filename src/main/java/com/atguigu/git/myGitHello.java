@@ -9,6 +9,7 @@ public class myGitHello {
         System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("push-test");
+        System.out.println("push-test2");
 
     }
 }
